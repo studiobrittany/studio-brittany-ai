@@ -60,3 +60,5 @@ Files may change, expand, or be reorganized as practices evolve.
 
 This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
 Attribution is required for reuse.
+
+© 2026 STUDIO BRITTANY™
