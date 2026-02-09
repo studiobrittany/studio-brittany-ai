@@ -58,5 +58,5 @@ Files may change, expand, or be reorganized as practices evolve.
 
 ## LICENSE
 
-This work is licensed to require attribution.  
-Details are provided in the LICENSE file.
+This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
+Attribution is required for reuse.
