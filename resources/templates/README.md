@@ -19,5 +19,5 @@ Blank, reusable starting points for documenting and shipping skills! :)
 - CHANGELOG_TEMPLATE.md
 - VALIDATION-REPORT_TEMPLATE.md
 
-© 2026 STUDIO BRITTANY™
+© 2026 STUDIO BRITTANY™ 
 https://studiobrittany.com
