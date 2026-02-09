@@ -1,0 +1,32 @@
+# VALIDATION REPORT
+
+## SUMMARY
+- **SKILL/PROJECT:**  
+- **VERSION:**  
+- **DATE:**  
+- **VALIDATOR:**  
+
+## SCORECARD
+| CATEGORY | PASS/FAIL | NOTES |
+|---|---|---|
+| CLARITY |  |  |
+| COMPLETENESS |  |  |
+| USABILITY |  |  |
+| CONSISTENCY |  |  |
+| SAFETY/POLICY |  |  |
+| TEST COVERAGE |  |  |
+| MAINTAINABILITY |  |  |
+
+## ISSUES FOUND
+1.  
+2.  
+
+## FIXES REQUIRED
+1.  
+2.  
+
+## FINAL VERDICT
+- [ ] APPROVED FOR RELEASE
+- [ ] NEEDS REVISION
+
+© 2026 STUDIO BRITTANY™
