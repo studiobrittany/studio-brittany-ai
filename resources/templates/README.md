@@ -20,4 +20,3 @@ Blank, reusable starting points for documenting and shipping skills! :)
 - VALIDATION-REPORT_TEMPLATE.md
 
 © 2026 STUDIO BRITTANY™ 
-https://studiobrittany.com
