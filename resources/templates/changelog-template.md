@@ -1,0 +1,10 @@
+# CHANGELOG
+
+## UNRELEASED
+- 
+
+## 0.1.0
+- INITIAL TEMPLATE RELEASE
+
+© 2026 STUDIO BRITTANY™
+https://studiobrittany.com
