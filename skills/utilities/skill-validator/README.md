@@ -52,7 +52,5 @@ This does **not** execute code or verify runtime behavior. For that, add:
 
 This repository is licensed under **CC BY 4.0**. Attribution is required.
 
----
-
-© 2026 STUDIO BRITTANY™
-https://studiobrittany.com
+© **2026 STUDIO BRITTANY**™<br>
+♥︎ https://studiobrittany.com
