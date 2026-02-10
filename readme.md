@@ -112,5 +112,5 @@ Steal it and pretend you made it ❌<br>
 
 Just give credit. That's literally the only rule.<br>
 <br>
-© 2026 STUDIO BRITTANY™<br>
-https://studiobrittany.com<br>
+© **2026 STUDIO BRITTANY**™<br>
+♥︎ https://studiobrittany.com<br>
