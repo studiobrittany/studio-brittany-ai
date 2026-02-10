@@ -20,3 +20,6 @@ Because doing the same thing 47 times is not a personality trait, it's a workflo
 <br>
 Skills are the building blocks you use inside workflows.<br>
 Think of them as your AI toolkit — grab what you need, combine as necessary, actually get work done.<br>
+<br>
+© **2026 STUDIO BRITTANY**™<br>
+♥︎ https://studiobrittany.com
