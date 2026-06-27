@@ -1,14 +1,14 @@
-# Universal Keyword Research
+# UNIVERSAL KEYWORD RESEARCH
 
 A Claude skill that teaches Claude a complete, platform-agnostic keyword research methodology: how to find the actual words real people search for, tag the intent behind them, validate them against real data, and prioritize them, before any content gets written.
 
 This is a research process, not a content generator. It produces a validated, ranked keyword list. What you do with that list (write the blog post, build the pin, draft the listing) happens after, using whatever other tools or skills you already use for that.
 
-## Who this is for
+## WHO THIS IS FOR
 
 Anyone creating content for a search-driven platform: bloggers, Etsy/Gumroad/Shopify sellers, Pinterest creators, YouTubers, course creators, newsletter writers, or anyone optimizing content for AI search tools (ChatGPT, Perplexity, Google AI Mode). No coding knowledge required. No paid tools required, though the skill covers both free and paid options.
 
-## What's included
+## WHAT'S INCLUDED
 
 ```
 universal-keyword-research/
@@ -26,7 +26,7 @@ universal-keyword-research/
     └── aeo-ai-search-keywords.md              (AI search / answer engine optimization)
 ```
 
-## What this skill actually does
+## WHAT THIS SKILL ACTUALLY DOES
 
 Tell Claude what you're creating content for (a blog post, a Pinterest pin, an Etsy listing, anything search-driven), and the skill walks Claude through:
 
@@ -39,12 +39,12 @@ Tell Claude what you're creating content for (a blog post, a Pinterest pin, an E
 
 It also includes platform-specific depth for Pinterest, blog/website SEO, and AI search optimization, since each of those has its own quirks that a generic process misses.
 
-## Requirements
+## REQUIREMENTS
 
 - A Claude plan with code execution / file creation enabled (Free, Pro, Max, Team, or Enterprise), or Claude Code
 - No paid keyword tools required. The skill works with free tools (search engine autocomplete, Pinterest's own free features, Google Trends) and covers paid tools as optional upgrades, not requirements
 
-## Installation
+## INSTALLATION
 
 ### Option A: Claude.ai, Claude Desktop, or Cowork
 
@@ -67,7 +67,7 @@ It also includes platform-specific depth for Pinterest, blog/website SEO, and AI
 4. Run `/skills` to confirm it loaded
 5. Test it by asking Claude something like "do keyword research for a blog post about meal prepping"
 
-## How to use it
+## HOW TO USE IT
 
 Just describe what you need in plain language. Some examples:
 
@@ -79,11 +79,11 @@ Just describe what you need in plain language. Some examples:
 
 Claude will ask what platform(s) and what the content is for if it isn't already clear, then run the actual research process described in `SKILL.md` and the relevant `references/` file.
 
-## A note on accuracy
+## A NOTE ON ACCURACY
 
 Every statistic and tool claim in this skill's reference files was checked against a named, current source as of the date in `SKILL.md`'s frontmatter (`last_updated`). See `RESEARCH.md` for the full source list. Tool pricing especially changes without notice, so always confirm current pricing at the vendor's own site before it goes into a real budget decision. If you're reading this well after the `last_updated` date, treat every number in this skill as a starting point to re-verify, not a current fact.
 
-## Troubleshooting
+## TROUBLESHOOTING
 
 **Claude isn't using the skill when I ask a keyword question.**
 Check that the skill is toggled on (Claude.ai/Desktop/Cowork: Customize > Skills; Claude Code: run `/skills` to confirm it's loaded). If it's on and still not triggering, be more explicit: "use the universal keyword research skill to..." Claude decides whether to invoke a skill partly based on how closely your request matches the skill's description, so a vague request can sometimes get missed.
@@ -106,10 +106,12 @@ The core process in `references/core-keyword-fundamentals.md` (seed generation, 
 **I don't know which file does what.**
 Start with `SKILL.md`; it has a routing table that points to the right reference file for whatever you're working on. You generally don't need to read the reference files yourself; Claude reads them when the skill is invoked.
 
-## License
+## LICENSE
 
 MIT License. See `LICENSE.txt`. Free to use, modify, and redistribute, including commercially, with attribution preserved per the license terms.
 
-## Credit
+## CREDIT
 
-Built by Studio Brittany (Brittany Parks).
+Built by STUDIO BRITTANY (Brittany J Parks) 2026
+https://studiobrittany.com
+
